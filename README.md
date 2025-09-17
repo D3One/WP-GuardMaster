@@ -12,6 +12,8 @@ This project is created by **Ivan Piskunov** for educational demonstration, to i
 > **⚠️ Important Disclaimer: This is NOT a production-ready security solution.**
 > This plugin was developed for **educational and self-learning purposes only**. It is intended to demonstrate security concepts and should not be relied upon to protect live websites. Always use professionally developed and maintained security solutions for any production environment.
 
+<img width="1664" height="928" alt="image" src="https://github.com/user-attachments/assets/3084ab06-85c0-41a2-91ee-ae1c5e213913" />
+
 ## 🚀 Project Goals
 
 *   **Educational Tool:** To serve as a practical example for students and developers learning about WordPress plugin development and web application security (OWASP Top 10 principles) .
