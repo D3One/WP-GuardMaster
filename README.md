@@ -99,4 +99,4 @@ As this is primarily a personal educational project, large-scale contributions a
 
 ---
 
-**Created by Ivan Piskunov | Cybersecurity Specialist, Lecturer, and Author**
+**Created by Ivan Piskunov | Cybersecurity Expert, Lecturer** (c)
